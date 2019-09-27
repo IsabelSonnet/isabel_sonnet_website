@@ -1,0 +1,29 @@
+body {
+  background-color:pink;
+  font-family: courier new;
+}
+h1 {
+  color: white;
+}
+p {
+  color: teal;
+  font-style: italic;
+}
+ul {
+  color: teal;
+}
+ol {
+  color: teal;
+}
+dl {
+  color: teal;
+}
+dt {
+  font-weight: bold;
+}
+dd {
+  font-style: italic;
+}
+table {
+    color: teal;
+}
