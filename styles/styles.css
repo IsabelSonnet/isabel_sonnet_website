@@ -4,71 +4,102 @@ body {
     padding: 4%;
     margin: 2%;
 }
+
 h1 {
     color: white;
     text-align: center;
     text-shadow: 10px 10px 5px gray;
 }
+
 h3 {
     text-shadow: 10px 10px 5px gray;
 }
+
 p {
     color: teal;
     font-style: italic;
 }
+
 ul {
     color: teal;
     padding-left: 8%;
 }
+
 ol {
     color: teal;
     padding-left: 8%;
 }
+
 dl {
     color: teal;
 }
+
 dt {
     font-weight: bold;
 }
+
 dd {
     font-style: italic;
 }
+
 table {
     color: teal;
 }
+
 .imgl3 {
     width: 33%;
     padding: 0.5%;
     background-color: white;
     border: 2px solid teal;
 }
+
 .imgl4 {
     width: 15%;
     padding: 0.5%;
     background-color: white;
     border: 2px solid midnightblue;
 }
+
 .imgl5 {
     width: 33%;
     padding: 0.5%;
     background-color: white;
     border: 2px solid teal;
 }
+
 a {
     color: midnightblue;
     text-align: center;
 }
+
 blockquote {
     color: midnightblue;
     text-align: center;
 }
+
 .search_input {
     margin-top: 2%
 }
+
 .page_links {
     text-align: center;
     margin-top: 2%;
 }
-.images {
+
+.home_images {
     text-align: center;
+}
+
+.background {
+    width: 50%;
+    float: right;
+}
+
+.facts_about_me {
+    width:
+}
+
+.imgl6 {
+    width: 30%;
+    align-content: center;
 }
