@@ -46,21 +46,21 @@ table {
     color: teal;
 }
 
-.imgl3 {
+.imgl1 {
     width: 33%;
     padding: 0.5%;
     background-color: white;
     border: 2px solid teal;
 }
 
-.imgl4 {
+.imgl2 {
     width: 15%;
     padding: 0.5%;
     background-color: white;
     border: 2px solid midnightblue;
 }
 
-.imgl5 {
+.imgl3 {
     width: 33%;
     padding: 0.5%;
     background-color: white;
@@ -89,17 +89,14 @@ blockquote {
 .home_images {
     text-align: center;
 }
-
-.background {
-    width: 50%;
+.who_is_my_family {
+    float: left;
+    width: 48%;
+}
+.who_am_i {
     float: right;
+    width: 48%;
 }
-
-.facts_about_me {
-    width:
-}
-
-.imgl6 {
+.imgl4 {
     width: 30%;
-    align-content: center;
 }
