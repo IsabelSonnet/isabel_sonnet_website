@@ -124,3 +124,18 @@ blockquote {
     color: midnightblue;
     font-style: normal;
 }
+
+.secret {
+    color: lightpink;
+    background: lightpink;
+}
+
+.secret_text {
+    padding: 1%;
+    background-color: mistyrose;
+    border: 5px solid white;
+}
+.secret2 {
+    color: pink;
+    background: pink;
+}
